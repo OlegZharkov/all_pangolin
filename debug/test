@@ -1,0 +1,7 @@
+taxon	lineage	probability	pangoLEARN_version	status	note
+ERR5653705	B.1.1.7	1.0	1/2/1981	passed_qc	17/17 B.1.1.7 SNPs
+ERR5651705	B.1.1.7	1.0	1/3/1981	passed_qc	14/17 B.1.1.7 SNPs
+ERR5674705	B.1.1.7	1.0	1/5/1981	passed_qc	17/17 B.1.1.7 SNPs
+ERR5656705	B.1.1.7	1.0	1/12/1981	passed_qc	17/17 B.1.1.7 SNPs
+ERR5637705	B.1.1.7	1.0	1/11/1981	passed_qc	15/17 B.1.1.7 SNPs
+ERR5673705	B.1.1.7	1.0	1/25/1981	passed_qc	17/17 B.1.1.7 SNPs
